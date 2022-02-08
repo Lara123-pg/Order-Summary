@@ -6,8 +6,8 @@
 
 Clone o projeto em seu dispositivo e acesse a pasta do mesmo
 ```
-$ git clone https://github.com/Lara123-pg/Order-Summary.git
-$ cd Order-Summary
+$ git clone https://github.com/Lara123-pg/Order-Summary---FrontMentor.git
+$ cd Order-Summary---FrontMentor
 $ code .  (Abrir o Visual Studio Code)
 ```
 Logo em seguida, o projeto estará em seu editor para ser executado.
